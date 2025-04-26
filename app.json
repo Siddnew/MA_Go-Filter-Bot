@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/Jisin0",
-    "repository": "https://github.com/Jisin0/Go-Filter-Bot",
+    "repository": "https://github.com/Siddnew/Go-Filter-Bot",
     "success_url": "https://telegram.dog/Jisin0",
     "env": {
         "BOT_TOKEN": {
